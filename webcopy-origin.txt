@@ -1,0 +1,168 @@
+Uri: https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i|Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Noto Sans JP:100,300,400,500,700,900
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u-w4BMUTPHjxsIPx-oPCc.ttf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\lato\v23\S6u-w4BMUTPHjxsIPx-oPCc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u8w4BMUTPHh30AXC-v.ttf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\lato\v23\S6u8w4BMUTPHh30AXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u8w4BMUTPHjxsAXC-v.ttf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\lato\v23\S6u8w4BMUTPHjxsAXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh50XSwiPHA.ttf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\lato\v23\S6u9w4BMUTPHh50XSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\lato\v23\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh7USSwiPHA.ttf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\lato\v23\S6u9w4BMUTPHh7USSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\lato\v23\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u_w4BMUTPHjxsI3wi_Gwfo.ttf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\lato\v23\S6u_w4BMUTPHjxsI3wi_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\lato\v23\S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\lato\v23\S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosansjp/v42/-F62fjtqLzI2JPCgQBnw7HFYwQgM.otf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\notosansjp\v42\-F62fjtqLzI2JPCgQBnw7HFYwQgM.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/notosansjp/v42/-F6ofjtqLzI2JPCgQBnw7HFQojgN8lE.otf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\notosansjp\v42\-F6ofjtqLzI2JPCgQBnw7HFQojgN8lE.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/notosansjp/v42/-F6pfjtqLzI2JPCgQBnw7HFQaioa1Xdj.otf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\notosansjp\v42\-F6pfjtqLzI2JPCgQBnw7HFQaioa1Xdj.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/notosansjp/v42/-F6pfjtqLzI2JPCgQBnw7HFQei0a1Xdj.otf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\notosansjp\v42\-F6pfjtqLzI2JPCgQBnw7HFQei0a1Xdj.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/notosansjp/v42/-F6pfjtqLzI2JPCgQBnw7HFQMisa1Xdj.otf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\notosansjp\v42\-F6pfjtqLzI2JPCgQBnw7HFQMisa1Xdj.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/notosansjp/v42/-F6pfjtqLzI2JPCgQBnw7HFQQi8a1Xdj.otf
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\s\notosansjp\v42\-F6pfjtqLzI2JPCgQBnw7HFQQi8a1Xdj.otf
+Content Type: font/otf
+
+Uri: https://mc-archmc.studio.site/
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\index.htm
+Content Type: text/html
+
+Uri: https://mc-archmc.studio.site/_nuxt/1b03214.js
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\_nuxt\1b03214.js
+Content Type: application/javascript
+
+Uri: https://mc-archmc.studio.site/_nuxt/1dad0e2.js
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\_nuxt\1dad0e2.js
+Content Type: application/javascript
+
+Uri: https://mc-archmc.studio.site/_nuxt/892b996.js
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\_nuxt\892b996.js
+Content Type: application/javascript
+
+Uri: https://mc-archmc.studio.site/_nuxt/ee5b93c.js
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\_nuxt\ee5b93c.js
+Content Type: application/javascript
+
+Uri: https://storage.googleapis.com/production-os-assets/assets/909c22f3-0634-449d-a6f2-f663fb24e897
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\production-os-assets\assets\909c22f3-0634-449d-a6f2-f663fb24e897
+Content Type: image/png
+
+Uri: https://typesquare.com/3/tsst/script/ja/typesquare.js?5ad00062415c46a09fd67fd7ac1e024a&fadein=-1
+File Name: C:\ArchMC HP\main\mc-archmc.studio.site\3\tsst\script\ja\typesquare.js
+Content Type: application/x-javascript
+
